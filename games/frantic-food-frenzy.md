@@ -5,6 +5,10 @@ IMG HERE!!!
 ## **Overview**
 This game was a open-world third-person driving-sim type game where the aim of the game is to collect the ingredients and cook the recipe before reaching the target destination.
 
+### Play
+
+[![Alt text][/img/common/download-game.png]](https://guides.github.com/features/mastering-markdown/)
+
 ### Trailer
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26N0AMmhz0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

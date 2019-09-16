@@ -7,7 +7,7 @@ This game was a open-world third-person driving-sim type game where the aim of t
 
 ### Play
 
-![Download Game]({{site.baseurl}}/img/common/download-game-inverted.png)
+![Download Game]({{site.baseurl}}/img/common/download-game.png)
 
 ### Trailer
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26N0AMmhz0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

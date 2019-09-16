@@ -1,4 +1,4 @@
-![Frantic Food Frenzy]({{site.baseurl}}/img/frantic-food-frenzy/top-splash.png)
+![Frantic Food Frenzy]({{site.baseurl}}/img/frantic-food-frenzy/top-splash.PNG)
 
 ![Frantic Food Frenzy]({{site.baseurl}}/img/frantic-food-frenzy/logo-280w.png)
 
@@ -14,7 +14,7 @@ This game was a open-world third-person driving-sim type game where the aim of t
 
 ## **Post-Mortem Breakdown**
 
-Ah, this one probably over all of them made me the.  This was group project, comprised of 3 programmers (myself included), 3 designers and  artists.
+Ah, this one probably over all of them made me the.  This was group project, comprised of 3 programmers (myself included), 3 designers and 2 artists.
 
 To put it frankly, this project fell apart and fast. We had a very successful prototype showcasing the real possibility of a producible game.
 

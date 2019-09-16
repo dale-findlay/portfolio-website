@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+# Introductions
+Hi there, my name is Dale Findlay. I'm a aspiring game developer and experienced software developer.
 
-You can use the [editor on GitHub](https://github.com/dale-findlay/portfolio-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+For a number of years now, i've been chasing a career in game development - along side starting my own business!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've learnt so much from a handful of great and not-so-great experiences along the way. Please feel free to check some of these out below!
+
+
+
+## Critical Mechs
+
+**IMG HERE**
+
+**INSERT LINK BUILD HERE**
+
+### Overview
+This game was a first person multiplayer arena puzzle game. The aim of the game was set out like this: Solve the puzzle with everyone - get the key - defeat everyone.
+
+**Sell Sheet Here**
+
+Build in Unreal Engine 4, this game presenting a heap of new and unique challenges for me. 1 being the 'elephant' in the room that is multiplayer. Lukily i could leverage ue4's powerful networking framework.
+
+
+
 
 ### Markdown
 

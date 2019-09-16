@@ -1,6 +1,6 @@
-# **Frantic Food Frenzy**
+![Frantic Food Frenzy]({{site.baseurl}}/img/frantic-food-frenzy/top-splash.png)
 
-IMG HERE!!!
+![Frantic Food Frenzy]({{site.baseurl}}/img/frantic-food-frenzy/logo-280w.png)
 
 ## **Overview**
 This game was a open-world third-person driving-sim type game where the aim of the game is to collect the ingredients and cook the recipe before reaching the target destination.

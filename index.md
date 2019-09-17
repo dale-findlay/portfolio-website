@@ -9,7 +9,7 @@ I’ve learnt so much from the great and not-so-great experiences I've had along
 
 ## Game Projects
 
-![UNFC Cover Image]({{site.baseurl}}/img/ufnc/cover.png)
+<img width="260" src="{{site.baseurl}}/img/ufnc/logo.png" alt="Ultimate Fun Noodle Championship Logo" />
 
 ### Ultimate Fun Noodle Championship
 Ultimate Fun Noodle Championship is an arcade-style game in which the player must eat as many noodle bowls as possible in thirty seconds. 
@@ -18,10 +18,9 @@ Ultimate Fun Noodle Championship is an arcade-style game in which the player mus
 
 **Download & Play**
 
-[![Download Game Windows]({{site.baseurl}}/img/common/windows.png)](https://drive.google.com/uc?export=download&id=1XN96-86j8dcJWxh3Ab7en2bdVpuQawaP)
+<a href="https://drive.google.com/uc?export=download&id=1XN96-86j8dcJWxh3Ab7en2bdVpuQawaP"><img width="60" src="{{site.baseurl}}/img/common/windows.png" style="display: inline-block; margin: auto;" alt="Download Game Windows" /></a>
 
-[![Download Game Android]({{site.baseurl}}/img/common/android.png)](https://drive.google.com/uc?export=download&id=1C-l44SvtD7JZrcEqtwUG38bXtduir4hv)
-
+<a href="https://drive.google.com/uc?export=download&id=1C-l44SvtD7JZrcEqtwUG38bXtduir4hv"><img width="60" src="{{site.baseurl}}/img/common/android.png" style="display: inline-block; margin: auto;" alt="Download Game Android" /></a>
 
 ### Shoot Em'
 Shoot Em’ is a fun first-person shoot-em-up game where you must destroy the flying heads!

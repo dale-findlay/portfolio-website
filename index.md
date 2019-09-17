@@ -9,13 +9,24 @@ I’ve learnt so much from the great and not-so-great experiences I've had along
 
 ## Game Projects
 
+![UNFC Cover Image]({{site.baseurl}}/img/ufnc/cover.png)
+
 ### Ultimate Fun Noodle Championship
 Ultimate Fun Noodle Championship is an arcade-style game in which the player must eat as many noodle bowls as possible in thirty seconds. 
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7mQe6QSG9CY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Download & Play**
+
+[![Download Game Windows]({{site.baseurl}}/img/common/windows.png)](https://drive.google.com/uc?export=download&id=1XN96-86j8dcJWxh3Ab7en2bdVpuQawaP)
+
+[![Download Game Android]({{site.baseurl}}/img/common/android.png)](https://drive.google.com/uc?export=download&id=1C-l44SvtD7JZrcEqtwUG38bXtduir4hv)
 
 
 ### Shoot Em'
 Shoot Em’ is a fun first-person shoot-em-up game where you must destroy the flying heads!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26N0AMmhz0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

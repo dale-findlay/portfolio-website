@@ -17,7 +17,7 @@ I put together a quick and dirty logo which gave the pitch presentation a massiv
 
 I wish I still had the Prezi link for this one because I remember it being quick a cool and funny pitch presentation taught me a lot about what makes a good presentation and putting together some quick assets like the ones above was a great idea gave the project a tangible and started to create a bit of language around how the game worked.
 
-What went wrong?
+### What went wrong?
 
 I don't know that anything really went wrong here. From the notes i have still lying around from the first actual pitch everyone on the team spoke clearly and fluently. 
 

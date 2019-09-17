@@ -1,56 +1,47 @@
-# Introductions
-Hi there, my name is Dale Findlay. I'm a aspiring game developer and experienced software developer.
+# Welcome to my portfolio
 
-For a number of years now, i've been chasing a career in game development - along side starting my own business!
+Hi there, my name is Dale Findlay. I’m a game developer and an experienced software developer.
 
-I've learnt so much from a handful of great and not-so-great experiences along the way. Please feel free to check some of these out below!
+For a number of years now, I've been chasing a career in game development - alongside starting my own business!
+
+I’ve learnt so much from the great and not-so-great experiences I've had along my journey so far. Please feel free to check some of these out below!
 
 
+## Game Projects
 
-## Critical Mechs
-
-**IMG HERE**
-
-**INSERT LINK BUILD HERE**
-
-### Overview
-This game was a first person multiplayer arena puzzle game. The aim of the game was set out like this: Solve the puzzle with everyone - get the key - defeat everyone.
-
-**Sell Sheet Here**
-
-Build in Unreal Engine 4, this game presenting a heap of new and unique challenges for me. 1 being the 'elephant' in the room that is multiplayer. Lukily i could leverage ue4's powerful networking framework.
+### Ultimate Fun Noodle Championship
+Ultimate Fun Noodle Championship is an arcade-style game in which the player must eat as many noodle bowls as possible in thirty seconds. 
 
 
 
+### Shoot Em'
+Shoot Em’ is a fun first-person shoot-em-up game where you must destroy the flying heads!
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Frantic Food Frenzy
+Frantic Food Frenzy ​ is a 3D third-person chaotic cooking and driving game where the player collects, cooks and combines ingredients all while driving. The player is in control of a food delivery van and must collect ingredients from around town, cook a recipe while behind the wheel and finally deliver it to the hungry customer before time runs out. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Riddles
+Riddles is a first person puzzle platformer, a genre that is an unlikely mix. Traverse the platforms but can you solve the riddle?
 
-**Bold** and _Italic_ and `Code` text
+### Time Crystals For Humanity
+Time Crystals For Humanity is a game in which you control 4 brothers, with 120 seconds on the clock you must collect the gems, save the universe and reunite the brothers!
 
-[Link](url) and ![Image](src)
-```
+### Relativity
+Relativity is a first-person shooter action puzzle game, where you must race against the clock the collect the cubes and climb the tower as fast as possible beat your personal best and you’ll earn your spot on the leaderboard.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Critical Mechs
+Critical mechs is a fast-paced online first-person shooter game. Featuring intricate coop puzzles and intense PVP multiplayer.
 
-### Jekyll Themes
+## Pitch Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dale-findlay/portfolio-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Don't Let Go
+‘Don’t Let Go’ is a dog walking simulator where you must stop Spot (the dog) from getting distracted.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+

@@ -2,12 +2,12 @@
 
 ![Don't Let Go Logo]({{site.baseurl}}/img/dont-let-go/logo.png)
 
-##Overview
+## Overview
 A dog walking simulator where your goal as a dog walker is to stop the dog from finding one or more distractions.
 
-![Multiple Dog Views]({{site.baseurl}}/img/dont-let-go/dog-views.png)
+![Multiple Dog Views]({{site.baseurl}}/img/dont-let-go/dog-views.PNG)
 
-##Post Mortem
+## Post Mortem
 
 This game was one we put together as part of our production planning class where we were given a small amount of time to come up with an idea as a team and pitch it to the teachers.
 

@@ -14,7 +14,7 @@ I’ve learnt so much from the great and not-so-great experiences I've had along
 
 Ultimate Fun Noodle Championship is an arcade-style game in which the player must eat as many noodle bowls as possible in thirty seconds. 
 
-<a href="/games/ultimate-fun-noodle-championship"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/ultimate-fun-noodle-championship"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7mQe6QSG9CY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -34,7 +34,7 @@ Shoot Em’ is a fun first-person shoot-em-up game where you must destroy the fl
 
 On mobile, this game can be controlled using the phones accelerometer for added immersion!
 
-<a href="/games/shoot-em"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/shoot-em"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <img src="{{site.baseurl}}/img/shoot-em/gameplay-1.PNG" alt="Shoot Em Gameplay" />
 
@@ -52,7 +52,7 @@ On mobile, this game can be controlled using the phones accelerometer for added 
 
 Frantic Food Frenzy ​ is a 3D third-person chaotic cooking and driving game where the player collects, cooks and combines ingredients all while driving. The player is in control of a food delivery van and must collect ingredients from around town, cook a recipe while behind the wheel and finally deliver it to the hungry customer before time runs out. 
 
-<a href="/games/frantic-food-frenzy"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/frantic-food-frenzy"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/26N0AMmhz0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -68,7 +68,7 @@ Frantic Food Frenzy ​ is a 3D third-person chaotic cooking and driving game wh
 
 Time Crystals For Humanity is a game in which you control 4 brothers, with 120 seconds on the clock you must collect the gems, save the universe and reunite the brothers!
 
-<a href="/games/time-crystals-for-humanity"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/time-crystals-for-humanity"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed//XL-yrDsphGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -85,7 +85,7 @@ Time Crystals For Humanity is a game in which you control 4 brothers, with 120 s
 
 Relativity is a first-person shooter action puzzle game, where you must race against the clock the collect the cubes and climb the tower as fast as possible beat your personal best and you’ll earn your spot on the leaderboard.
 
-<a href="/games/relativity"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/relativity"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9-8u9P4Okiw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ Relativity is a first-person shooter action puzzle game, where you must race aga
 
 Riddles is a first person puzzle platformer, a genre that is an unlikely mix. Traverse the platforms but can you solve the riddle?
 
-<a href="/games/riddles"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/riddles"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <img src="{{site.baseurl}}/img/riddles/gameplay-2.png" alt="Riddles Gameplay 2" />
 
@@ -117,7 +117,7 @@ Riddles is a first person puzzle platformer, a genre that is an unlikely mix. Tr
 
 Critical Mechs! is a fast-paced online first-person shooter game. Featuring intricate coop puzzles and intense PVP multiplayer.
 
-<a href="/games/critical-mechs"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
+<a href="/portfolio-website/games/critical-mechs"><img width="150" src="{{site.baseurl}}/img/common/check-it-out.png" alt="Check It Out" /></a>
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OsG5nziQw4Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
